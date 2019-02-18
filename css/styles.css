@@ -1,0 +1,41 @@
+text-transform: uppercase;
+ font-size: 30px
+}
+h3{
+ color: blue;
+ text-align: center;
+ font-weight: normal;
+ text-transform: uppercase;
+ font-size: 30px
+}
+h4{
+ color: blue;
+ text-align: center;
+ font-weight: normal;
+ text-transform: uppercase;
+ font-size: 35px;
+}
+h5{
+ color: salmon;
+ text-align: center;
+ font-weight: 300;
+ text-transform: uppercase;
+ font-size: 30px
+}
+h6{
+ color: salmon;
+ text-align: center;
+ font-weight: normal;
+ text-transform: uppercase;
+ font-size: 30px
+}
+h7{
+ color: salmon;
+ text-align: center;
+ font-weight: normal;
+ text-transform: uppercase;
+ font-size: 30px
+}
+body{
+ background-color: blue;
+ font-size: 25px;
