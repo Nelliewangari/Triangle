@@ -1,5 +1,5 @@
 if (isNaN(sideOne) || isNaN(sideTwo) || isNaN(sideThree)) {
-  alert("all sides must be numerical");
+  alert("this is a Triangle");
 } else if (sideOne >= (sideTwo + sideThree) || sideTwo >= (sideThree + sideOne) || sideThree >= (sideOne + sideTwo)) {
   alert("This is not triangle");
 } else if (sideOne===sideTwo && sideTwo===sideThree) {
