@@ -1,5 +1,5 @@
 {Triangle Tracker}
-{A project about knowing whether a triangle is equilateral,isocelece or scalene .}, {16/2/2019}
+{A project about knowing whether a triangle is equilateral,isosceles or scalene .}, {16/2/2019}
 By {Nellie}
 Description
 {This is a detailed description of my application, including its purpose and usage and  information I want users or other developers to have}
@@ -7,16 +7,16 @@ to list setup instructions
 The application is:
  simple
 easy-to-understand
-The project uses languages like HTML, CSS and Javascript
+The project uses languages like HTML, CSS and JavaScript
 Support and contact details
-Incase you need help to understand or add something to the application you can email me at: Nellewangari11@gmail.com 
+In case you need help to understand or add something to the application you can email me at: Nellewangari11@gmail.com
 
 License
 MIT License
 
 Copyright (c) [2019] [Nellie Wangari]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sub-license, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
