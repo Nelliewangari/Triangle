@@ -9,3 +9,19 @@ if (isNaN(sideOne) || isNaN(sideTwo) || isNaN(sideThree)) {
 } else if (sideOne!=sideTwo && sideOne!=sideThree) {
   alert"scalene";
 };
+var response = [equilateral, scalene, isosceles, other];
+if( a+b>c && a+c>b && b+c>a ){
+  if(a==b && b==c && a==c){
+    text = "values you entered will make an equilateral triangle.";
+    text = result[0];
+  }else if (a!=b && b!=c && a!=c) {
+    text = " values you entered will make a scalene triangle.";
+    text = result1];
+  }else{
+    text = " values you entered will make an isosceles triangle.";
+    text = result[2];
+  }
+}else{
+  text = "values you entered will not make a triangle.";
+  text = result[3];
+}
